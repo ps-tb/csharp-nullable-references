@@ -1,0 +1,16 @@
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\bin\Debug\netcoreapp3.1\NullableReferences.exe
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\bin\Debug\netcoreapp3.1\NullableReferences.deps.json
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\bin\Debug\netcoreapp3.1\NullableReferences.runtimeconfig.json
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\bin\Debug\netcoreapp3.1\NullableReferences.runtimeconfig.dev.json
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\bin\Debug\netcoreapp3.1\NullableReferences.dll
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\bin\Debug\netcoreapp3.1\NullableReferences.pdb
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\obj\Debug\netcoreapp3.1\NullableReferences.csprojAssemblyReference.cache
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\obj\Debug\netcoreapp3.1\NullableReferences.AssemblyInfoInputs.cache
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\obj\Debug\netcoreapp3.1\NullableReferences.AssemblyInfo.cs
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\obj\Debug\netcoreapp3.1\NullableReferences.csproj.CoreCompileInputs.cache
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\obj\Debug\netcoreapp3.1\NullableReferences.dll
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\obj\Debug\netcoreapp3.1\NullableReferences.pdb
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\obj\Debug\netcoreapp3.1\NullableReferences.genruntimeconfig.cache
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\bin\Debug\netcoreapp3.1\NullableLibrary.dll
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\bin\Debug\netcoreapp3.1\NullableLibrary.pdb
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableReferences\obj\Debug\netcoreapp3.1\NullableReferences.csproj.CopyComplete

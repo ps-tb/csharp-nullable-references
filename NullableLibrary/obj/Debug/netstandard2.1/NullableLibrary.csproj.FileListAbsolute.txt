@@ -1,0 +1,9 @@
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableLibrary\bin\Debug\netstandard2.1\NullableLibrary.deps.json
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableLibrary\bin\Debug\netstandard2.1\NullableLibrary.dll
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableLibrary\bin\Debug\netstandard2.1\NullableLibrary.pdb
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableLibrary\obj\Debug\netstandard2.1\NullableLibrary.csprojAssemblyReference.cache
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableLibrary\obj\Debug\netstandard2.1\NullableLibrary.AssemblyInfoInputs.cache
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableLibrary\obj\Debug\netstandard2.1\NullableLibrary.AssemblyInfo.cs
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableLibrary\obj\Debug\netstandard2.1\NullableLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableLibrary\obj\Debug\netstandard2.1\NullableLibrary.dll
+C:\Users\Tim Balasavage\RiderProject\NullableReferences\NullableLibrary\obj\Debug\netstandard2.1\NullableLibrary.pdb

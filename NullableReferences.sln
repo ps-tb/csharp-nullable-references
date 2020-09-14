@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableReferences", "NullableReferences\NullableReferences.csproj", "{A2CED644-E592-4A5A-8608-516DA09698EB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableLibrary", "NullableLibrary\NullableLibrary.csproj", "{8E6A8577-DFF3-4520-AF32-6960097B26A7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2CED644-E592-4A5A-8608-516DA09698EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2CED644-E592-4A5A-8608-516DA09698EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2CED644-E592-4A5A-8608-516DA09698EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2CED644-E592-4A5A-8608-516DA09698EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8E6A8577-DFF3-4520-AF32-6960097B26A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E6A8577-DFF3-4520-AF32-6960097B26A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E6A8577-DFF3-4520-AF32-6960097B26A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E6A8577-DFF3-4520-AF32-6960097B26A7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
