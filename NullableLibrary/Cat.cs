@@ -8,6 +8,13 @@
 
         public AdoptionAgency AdoptionAgency { get; }
 
+        /// <summary>
+        /// This leaves values uninitialized
+        /// </summary>
+        public Cat()
+        {
+        }
+
         public Cat(string? name, CatType catType, AdoptionAgency adoptionAgency)
         {
             Name = name;
